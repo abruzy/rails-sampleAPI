@@ -45,3 +45,5 @@ gem "dotenv-rails", "~> 2.7"
 gem "bcrypt", "~> 3.1"
 
 gem "knock", "~> 2.1"
+
+gem "active_model_serializers", "~> 0.10.10"
